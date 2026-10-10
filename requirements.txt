@@ -1,0 +1,5 @@
+# Python Network Packet Sniffer & Traffic Analyzer
+# Dependencies for B.Tech Cybersecurity Internship Task 1
+
+scapy>=2.5.0
+pytest>=8.0.0
